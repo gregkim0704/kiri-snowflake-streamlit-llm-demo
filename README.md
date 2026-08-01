@@ -1,5 +1,7 @@
 ﻿# KIRI Fund Performance & Risk Intelligence Demo
 
+[![tests](https://github.com/gregkim0704/kiri-snowflake-streamlit-llm-demo/actions/workflows/tests.yml/badge.svg)](https://github.com/gregkim0704/kiri-snowflake-streamlit-llm-demo/actions/workflows/tests.yml)
+
 > Reproducible end-to-end data and AI demo built with Snowflake, SQL, Python, Streamlit, and the OpenAI Responses API.
 
 가상의 펀드 일별 기준가를 생성하고, Snowflake SQL로 성과·위험지표를 계산한 뒤 Streamlit과 LLM으로 전달하는 통합 포트폴리오 프로젝트입니다.
